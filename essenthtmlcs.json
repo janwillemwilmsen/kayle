@@ -1,0 +1,1289 @@
+{
+  "documentTitle": "Energie van je betrouwbare energieleverancier | Essent",
+  "pageUrl": "https://www.essent.nl/",
+  "issues": [
+    {
+      "context": "<a _ngcontent-innogy-app-c116=\"\" href=\"/zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\"><img _ngcontent-innogy-app-c116=...</a>",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "y": 1568.203125,
+        "width": 538,
+        "height": 302.625
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c116=\"\" href=\"/isolatie\" linktype=\"internal\" id=\"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\"><img _ngcontent-innogy-app-c116=...</a>",
+      "selector": "#{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}",
+      "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 1568.203125,
+        "width": 538,
+        "height": 302.625
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<img id=\"logo1\" src=\"https://static.essent.nl/online/img/essent-logo-bottom-right-small.png\" alt=\"Logo van Essent\" align=\"left\">",
+      "selector": "#logo1",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1.H49.AlignAttr",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Align attributes .",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 317,
+        "y": 156,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<img id=\"logo2\" src=\"https://static.essent.nl/online/img/essent-logo-bottom-right-small.png\" alt=\"Logo van Essent\" align=\"left\">",
+      "selector": "#logo2",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1.H49.AlignAttr",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Align attributes .",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<td class=\"padding_akkoord\" align=\"center\" id=\"stSetting-1\">\n              <button type=\"but...</td>",
+      "selector": "#stSetting-1",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1.H49.AlignAttr",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Align attributes .",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<td class=\"padding_akkoord\" align=\"center\" id=\"stSetting-2\">\n              <button type=\"but...</td>",
+      "selector": "#stSetting-2",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1.H49.AlignAttr",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Align attributes .",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<td class=\"padding_akkoord\" align=\"center\" id=\"stSetting-3\">\n              <button type=\"but...</td>",
+      "selector": "#stSetting-3",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1.H49.AlignAttr",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Align attributes .",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<h5 _ngcontent-innogy-app-c351=\"\" wlcscapture=\"\" class=\"off-canvas__title\" data-cs-capture=\"true\"> Menu </h5>",
+      "selector": "body>:nth-child(1)>:nth-child(7)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_3.1_3_1_A.G141",
+      "type": "error",
+      "typeCode": 1,
+      "message": "The heading structure is not logically nested. This h5 element appears to be the primary document heading, so should be an h1 element.",
+      "runner": "htmlcs",
+      "recurrence": 1,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"#\" id=\"std_cookie_show_settings\">instellingen</a>",
+      "selector": "#std_cookie_show_settings",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3.42:1. Recommendation:  change text colour to #008299.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 591.46875,
+        "y": 552,
+        "width": 79.734375,
+        "height": 16
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAE8AAAAQCAYAAABX7CKkAAAAAXNSR0IArs4c6QAABLFJREFUWIXtmF1sUmcYx3/y0WJHI02xHwTSupKJJlpqptSkUdxXnR8Ly0zWZRfrXfVq7K67425esju8kmSJI4vLOldNzeqkuxjFmPYkjRUbGtq1MqoSqLDDQaDdxcG1q4XVQuIu9rs6L897nvd//uf9eA47VldXV/mfbaEAYOkenusTCOKrFRML3sZ+OYgAQJyRqyPYR+eL0Uf4RwP4wq9Y5DoUAKGpeS4sRvE8SFctcej2z3jCL3lTNs/YsxxSsZnM5hkTc3JjIcLgbJxPhMjf8VeNCsBitzHZUcCyR1ultHFC0SxJQ5XSAZgOMfReFAxGNFVMWwnysmUn7fq6tV+zaaT82nUytUwyW9jk9hxSaplkauNSSjOXKTVkAUlcJplaXhtji+j0unXG5ZBEae16Ux1F8qL8DGKpOVtGUxkvVADMTtDgz/DtR+/Sp4dYMEBrfDeB+sf0zWaZL3b9/Mhh3F2NcqIlgf6hRUaUCiysMFao5fIpO/3ZCez+x4wVAP8wX/qBVgurH5ghEcZ9I8QXaQXHa2DumQKH9RBuW9MWrJvHfSXE+L6jDB1rlNvfhNEdMRASfufrZ3KvNu1uhs7ZsNbKpswFf6Vf+BOpRoWmkGcOFe1KoN6A79xBWv5FUzkvVCW1PoribTyAMGBCR47Q6C323blPX1cP3cQZGl1krqOT2DsmoEAyukhSp4Y6G35zmIuXQmA/w+De5wkf4v0phE9nIfGpGR3A0gR9Q3dxN/Xi3KPcgoEbyeOaeorvbC9uvRpS93BeieAKxmWDE1O4hCx9p3o5b1IDIuPX/BwtGEmcPYhuq5pKeKEoqUvbguuYSU6IGsv+Ro6TYe6J/EalAiTFNEkAlOgMbbTXlcwGDyIMZl7jYm9RJEBzJ87WFbwzi9swTsZp68GuV8uN+g4cTfBjMiG342lG0GI1FePU0a5Tg5hHUr2EphJelJ55G6lRrg1AEw6bDo9/loZL8wwYm+i3HaD7+UNsQmwpwxJZTniHX4g1GzfbT7eDBs36CWxqpJ8Ivsk43V2NkI/hX8jSazDQUommohdbN2+jzL09+DuWCU3N4JmO4fg+hvPttxg0lzgLVQA6Jgd6sG530Jeldh8uexyrP0D7HZhHwWdGC74TLVXRtG3z5Lt3Yek6jLtL5OTVX3h/epFBs3nTri2tWjqnlhGiYK1mCVOWBby/PcV56gznTdXXVHrPK4uIEBQQUsUCVowipGCgefc/eo1HY5CPE1oSYc8buLR5BkcDjCeKJUPqIUPXbuGJVGvZbsYKF27cwH55hP4fArivB/E9iMuhCjVtc+ZlkZ48pv/KTSSlAqmwQrfRgte2qxg3crIjjHvmLjtm4LjRwshpM44PO5Fu3qPvu9Hika/g49Y2Lpq2c9JuAXEFamr5ar+R7nogmyG0kMDjD+CNvsnIiZaKNO2o7I+BHFIqh6a+xDGbTSMptWheeEU5JBE0daUPmGogXB+mq1CsMdcxfm0Yh3I/sdOvV6Spsj0PNZr6MoPVakt8SqnRlCtrqkS7fifN0wv4Ig2c1KuAPLHwfVx/1OJ2tFWsqcKZ918nR2x6AtfdBEImT0ypwqprwGk/tFYbVsBfxWMxY8b0tdUAAAAASUVORK5CYII="
+    },
+    {
+      "context": "<a href=\"https://www.essent.nl/content/sitevoorwaarden/overzicht-websites.html\">E.ON groep</a>",
+      "selector": "#dynamicLink>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3.42:1. Recommendation:  change text colour to #008299.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 432.671875,
+        "y": 528,
+        "width": 82.078125,
+        "height": 16
+      },
+      "clipBase64": "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"
+    },
+    {
+      "context": "<a href=\"https://www.essent.nl/content/sitevoorwaarden/privacyverklaring.html\">privacyverklaring</a>",
+      "selector": "#privacyverklaring>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3.42:1. Recommendation:  change text colour to #008299.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 673.203125,
+        "y": 528,
+        "width": 119.625,
+        "height": 16
+      },
+      "clipBase64": "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"
+    },
+    {
+      "context": "<button type=\"button\" class=\"btn btn-blue\" id=\"stAcceptDefault\" data-automation-id=\"cookiewall.accept\">\n            Ja, ik accepteer co...</button>",
+      "selector": "#stAcceptDefault",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change background to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 317,
+        "y": 612,
+        "width": 200.265625,
+        "height": 48.375
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAMgAAAAwCAYAAABUmTXqAAAAAXNSR0IArs4c6QAAC/tJREFUeJztnF1MW2l6x3/2wc6BY5vDZwwMYGChTrOTEM1MRDSajkdRF6/2IowiTVypF0S9SFaqFHpRLduLil5Uw6oXm1EvlrmarNQL2CtG21HJrEZxsqrwdjoaJ9s0FlnA4DA23wew8YmJoReGYBx/QMKEdOb9SVyg93mf5/Fzzv+8z3teg2Fra2vrwwdz/OvDBcL6EwSC7zs1chF/+4NK/uHPqzH88//Obv3T/8yS2No66rwEglcGs8HAP548jsH+6f2tiFg5BIJnOH6sCKMQh0CQndnHTzAedRICwauMEIhAkAchEIEgD0IgAkEehEAEgjwIgQgEeRACEQjyIAQiEORBCEQgyIMQiECQByEQgSAPQiACQR6EQASCPBy6QC691cIDdxsP3q46BG8mrrlOEL94gluvKwBcecdJ/OIPmXyn/BD8C14udXx98YfEL7byqxwWnW+1sXzxJA86yl5qZrk4dIHYFRmnTcZpPXYI3krpUk3IkglXXapgsiQhS0ZU6bu1+F3qaGM5z43z3cCALBmRJQNyDgtPhYwqSTjtZVx5qbllp+ioE8jPAv1BK6rdgM//6KiT+VZxqzKqpOe8cb4v9I1pONuOERkP8fFRJ8NLE4hMZ7OKp9qMri0xEIhyd58zI5El+hdB0/MYqRYuWSVIPsH3TYypLCan7eV46i04NuPcGJ/nppYrxyIicxqDE3tzbKyy4WlQaSfO4LTGp/Mb2edGlhkIpuVQonChogh9bYWbmkyns4JuFXzjc3y046OkCqcMYEStL+USW0QWV7m9/mzsgrlnxG+sstEhbxIIRdGqKultOYY/MMPHz/goXANKFC7YrXTlGt+vzR5MvFtbgl0CbW2FwJrG9fsG9MzrXaJwoUHFo4I/uMgvIhkGqoWftZTnuD7Pj4Ghu4f6x+jXXCe5Xi3B6hKGkUd0tjcz0GLBIaUZxaP0fDHBR+uF/X3iPkW3DQKT9zjx5a5/be4byrwLUFLJrR/V4jJvEpgMcuLL6F4H9hpuvVGBS0lvyTbwfv0n3nuYKmJjcyPeM6V7c0wmGPwqwF8FLfzyfD09FaY9biNzc3i8EYLZ5sZjXP9ynL+LAK3NLJ+xoMai+IwWOop3jLbz1apT43u8J/F+fZ/3HmaLvUlw5htc/7nEVK7c0+Kn6mXAP7OOoy4VZ6eW6eSvAZx2NjF80vrM+PDX47w/kapjYZvXePBBOU50bvxmjMuk9hzDTTJyIkrP5xNwNuP6Ap3tLdxoU7CnudVjK/TcmuLj9TQfe65PmC7vPH/gxfj2G3nZjIMEvskwntEww7FNKLbQd7byEJxb+OQv7LjMoM1FcGeKAwATDgWCi0v0jk7RO5NAx4TrZD3XAErsDG7fGJHFRa6OTnF1PEpQT+Cbg863X0vdoMkEw/em8IyGGVzdQItFuf10bhLfeAjX5+N0T+voxQpXX6+hMT0NxYJDX6J39BH94QQ6RpxNNfxqaZbu0RWCACQYHp3CMxqib2Y3th5boffOGO135vAmjDjqjjPgSM+9UHwj7XUW5LhOYDWOP3P1KFADqhoYPmXFISUJTIfx7HwGyUzXmQY+LNmnTQaNrc0MNsnISZ0bvhwPTHsjA20K9mSC4XsTtH8+Qf9cElkppe+NMqCG/iYZmZ3r84iBcAzfjPbC4oCX0GLd9AUwpP0+JFtTT0z5RbttAz9zNdJtM6KvLuHxLmRtrYhM0/SbtN9DJtxdtbjMRbQDtFnpkID4Gr1fzPBrgNDKdv9byn+UmwHwB8d5P5B6Ug6F5lO+3qpNzV3W8Hy1zBRw2zeLp6oRd5mVPsJc3ombiNL/u0d8BBAy0tFVi8tcTEd9jJ/6y+g/B7CJFlphCIByblWZgQ2896f4RQQgwntBK1ttxXQ4yqHKVjC+fyd+TKPrs2luZqtR3hrApTcUHKTiuH3zTAFDocc4f9JCl6LQdRL8cmGbn6etWnJ9AyOnLKgk8d6b5HIkW2JwxWnBAUTmZnk/kHoA3vUu4f6givaKMq6Q2F45DMjJJ/hCKwyFlrI7ew5eyh6ksaqS3jYbHdYiZMmU0U48H2p1Df0ASZ1B/6PsF36HEoVrJyrpKj+GXTJiN+8OXVNTv+jr8dSNsQcrjmKABMHpZ3vaa8p261NWQfCDigNkv0BQrwUzyKZcNiXbeZpwnz3F1tnMceOB4mux9Zw1yl8DcG/HCa5raQ+hGAF9ExQjdqUSt1zYZhcZz7nUba3NhZ+2utnokFP9mr2mnq0P6p8Zl1nGt6ritJlwn2kheCZJILxE31dhhvbRwhfiWxaIiWvv/ID+GhMySSKrG2TdGz4H2uI8A5TTWyHjaX+NwZHsImlsbcJ3ypraBMZ1IhnXIpLcBCRkoyHL7CSpraCBbAvezlx9cZHusYz2LvkEX87sTchSzsGM2AmG/yvMYHLvqLa2gvp6VcH4XYXCUKgGoG3Hlo17bxfZuNOhb+7LZpcEw/+9TvubKo7qGm61ruUUyY7f4EyI3unNvYMbjxlCh5E/4X39OFcbLHQoEs6aKm68Db7fhbN3FQfgkPcgFlzW1JXXdB2qaumpMSEn41z/9/vUjIxxYiyeIRKZzvpSOg+6rCQ3+PnoLN4EyDaV629ZshgpXG+zYpc28Y89oOy3Y5wYWcCf2LUYmk+kbkRbyZ4++bQqA6sEYgAmnA1p/ktkTpfszpWtx7AvrjAU2v5ZfExAy/42LTW/GqcCsEEwR2uxG9tMuz256zu0QmDtMTe1F4ifQf4awPBaqmB2WynvPh2tpF0B2CSwuLQvm1020SamuTqdAKTUfjDLHiU9tkO1ptrPnZ+1xwSevsnS+fUfpzj32X0Md1aIALJSvK+HQyEOZQX55fmTeEwboMjYJYANfMEFYPtTSxKOhlKumFR6Wva+sbn0dhODdSaIr+H57eR2/71P1hfovm/Df8aCs6GWT0Jjz/SyqRIaURWVS80SnrYKXGktFoElvK0K7mKFnvOttM8/BquCq8yI/94knpk4XW3FOOoamXRF8W1IdFRZcGxoeD6bZdDhoNtmof98K+75x+iyjKtaRo1peD6b3v085hJ6/7KJjjVwVim0A/rqGv0h2F0tzLjPN/PAtMXAyCS9Y1HcZyw4GhqZlKP4dGNqbvEWvnuTnAsUjr8vCtTg3L0FvPZaXIrKsFtiRNvEUWGlwwzEYwz8EW6XFLbJ5KbvETfUVP59ZysZ3n5rlc7ttNiDPynCu/gE2argKjOhL4Zxj0r0/6gCZyzKjfE1qCtGBfRYnOH9ffq8HMIKUk67VcJu2xZHMoF3LMSPg8B8mOtzG4CZrlONDJywQGQRb9oT3Bd7kro5JMOe13j7ZephiL65JEgy3W800LlnNEbvWJQI4KirYfDNalysMTCX3q8s8+PfhxmJbSIXF+NuUHGXmdCXNa5PrzPlD9I9HkdDwlFdiqfOgkNKMDI+xxBRLt/5hsHV5NO5XdUyakJneHxur9iTSXTFiqfBSnuxET22Ru+dR9wGIMyNmdSbLXuFBadNxt0MUw8n8IxFCSa3YzdYaS+GyGIqNw4SPy/5a8D6Au/55vHGNlFtVjwNpXQoRrRVjau/n0ztW/Zj8wxRLvs1AklQq49zozXLhizdr2Khazs34jEGxzT+YE6i6WAvK6X3zdforTFDbI2+L1+8vYJDPAc5bS/FkVzPfkBTonBBBX/WQzwTH57/M3qYpfiL+cNIJQsm3q0tBm338C0rJQoXbEk+zTyE2ua03Ya6msuHTGe9GX0xY3znHCQRpWd4Aq+9FLu+kuWwL3/8xiobHVKCoRy55Yx/UArUIBWniEgo3wHgfmyeM7cKA8Gsfvd5jQ/IoR8UHpj2VuKOJL2f7+/g8P8dGQL56KjzERyIo/8ulj9ER1Dn7ndRHAB6gsCqjrqRIOd+XPDKcvQriEDwCvPd+s64QHDICIEIBHkQAhEI8iAEIhDkQQhEIMiDEIhAkAchEIEgD0IgAkEehEAEgjwIgQgEeRACEQjyIAQiEOTBaJeP/gu9AsGryPFjRRh/2lKx/W95sv/BvkDw/cOAAfib5jIMW1tbW39/N8K/TS0R0Z8cdWYCwZFjl4v468Zy/uW0nf8DSfl4zmKfXZoAAAAASUVORK5CYII="
+    },
+    {
+      "context": "<button type=\"button\" class=\"btn btn-blue-ghost\" id=\"stSettingsButton\">\n            Instellingen\n      ...</button>",
+      "selector": "#stSettingsButton",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 532,
+        "y": 612,
+        "width": 116.03125,
+        "height": 48.375
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAHQAAAAwCAYAAADAU15dAAAAAXNSR0IArs4c6QAABl5JREFUeJztnE9MG9kdxz/YBg+xYwwEY3AA1yksTrRbr9IooEgtUhLVUrQKUastOdWXbuhp2VMStZVyW3NaclqiHpacsq0qxdoLqVZVSXersFKjuCQLLgngxIQYsPH4D2bAmOkBw26Is02CicloPreZp/eb78zH894bj+USWZbly+MRrkxGGUsso/Lm4TTpOeeo5sOWfeguj0cYmk/x1/YmDlYIxc6m8gqMxiV+fy+MjEyJczAgqzLffEbjEr+69RDNWGJZlakADlYIjCWW0RQ7iEphUYUqDFWowlCFKgxVqMJQhSoMVajCUIUqDFWowlCFKgxVqMJQhSoMVajCKJjQ4L/H6fvHOAPjqUKVfEWe0H/9Lh3XH+DPt51dwDd4l47BSYJLRQ26IxRMaFiU+GhewhddLVRJiE3j/eIu/RMv00lGzMjczKwh5duOigwkZW4mU3weKlzU3YKu2AF+kPk0fZJMz0oBa1pq8drX6Mga6G4pYN1dws7NoUuLiLHcmLayRHBiGv/jfGNcFik6z/DIDIG5paf2B+dWmAVEKYUYSyEuZZ+qH5yYZmhiAemlhJdhb7biaTWz+Vp/MYWYkHJ14wTGZwhEpTxRJcRHMwyNzBFM5Gn/wVwZpM1zyJ3z+PzT51QAduwODfunqAvJnK/RMzwvcROABWoFI8OnHNi15Oazac6kc50CEWpLBXzHLQSHHnE2d81670/Sex9ONzTiay8l8PVD3DOrPMzV5PZjzjc34n234gWSzdP3ZYSLCNx6v4U2YPjWJO0LOj6xQl94o26Eo1X7GDpRvy7+SRDPVwmubpQJhDcrvliu3HH37OFT0vxu45z9YT5+28EFp+GVrvNWdniVK9MbzeJx7SfWYeUzAWalFN476wsn8c4sZ9Jw2mrlyUkHsWNVeK17cZn20tnhYNC8XuV8s4PYSQcDrr1Idx7RMbOK1VzJ1Ckn8qk6rgkyvfdnuBHbTtZVvFEd/W1NxI5Vcl4D3yxEc/N3Et/tBFfRce2YE/mXLUzVr1+60/VWPj9sfvFc6TQ+oZKxDgdTzXqOInPx2ye5Bdz22fHHltO2OjwtVZgtFjzNegB8YgIAKbM+3EjZVQSDEbNtP572OgS0CCYj5lw6s2DEXGnEXJ7iRijDLDouHGnAbigFQw1dh/bwEzIM3I9vK2tPawvuxgrMtga6bRpAZjgaB5IE0oAg0GYrBa2AvbGcnwNoyxDK4i+RS+DSiQZaLUbs79bQIwBrKwTnthV9k9e8KCoBYDa3ZT1g5DehBFfnI1T6Ivxi7x4uHG6iw1L6nP6LBCSAVc58OfJMqz0rFyzpxvwqZWWgCndVlIsLi3i/nqa7DvxjaW6i4bNGMzDzirk27qeNFfn2Ke4q12Jn4L0Fuv0RBsISV5Jp/jb0gMGTTtyV+TroEDTAmp7B4zbatowvgsEIpPN13CYCrp/V8skXYfpmFrgyA0cFPdeO2OiyFTPXsxT/saW8irb2KtrI0vPPUZzhDP4wzxFqwmUKg7jC0FwJ7u8vJFYyULZzMQPDs3y0Vsr14z+ms3rrCFK8XFspqlBp5L+4g9DdWoPbIDEkykApLut6u6AtAWR8wQns4VWEQ2/R+baRX3+VovfuFIgVuA1rBB4n8Sbh0rEWPLadTJzhzN/HNreaNBo6bbV422voKGqu7yii0CySoKM1u8hZ/zQAtRodn7oaNu9O1yETH/4rzuXkImeTcO5RnM6fOhg4MonVn6I3FKMXAA3n6qvptO7UrbCIRAlNGh2XbGWIUhYyWW6IGS6HwtgtNfQcKEauZynhz/+R5fffeW0HzMvKEmJGh9mQbzGURUqsIJjKn21aWkRcK3tOvwIy8QDX7TT2hkZ87ebN3cFb9/hRaI2PXe9w4fvfOr2uXFso+cvILphDAcrKMT/3Q6zNLxOg3IA5f0thqRdw307TGwrhSc7hKgUyq/SLa9QKRroOFClXHnaH0N1O+X68x7W47sToTy4TBNDq6LZb8Ry2YNYWO+B3qEJflOo6uk7U0VXsHP8H9QW3wlCFKgxVqMJQhSoMVajCUIUqDFWowlCFKgxVqMJQhSoMVajCUIUqDI3TpGc0XqifKKkUi9G4hNOkR3POUc0f7oUZVf+J841lNLHMH+/N8oGjihJZluW+8Qh/moyqUt9QDpr0/NZRTU/LPv4H5sunooGvyg8AAAAASUVORK5CYII="
+    },
+    {
+      "context": "<span _ngcontent-innogy-app-c231=\"\">©Essent 2023</span>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(7)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 1093.5,
+        "y": 3900.046875,
+        "width": 100.5,
+        "height": 48
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c352=\"\" wlcscapture=\"\" class=\"top-navigation--item active\" href=\"/\"> Particulier </a>",
+      "selector": "body>:nth-child(1)>:nth-child(7)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 4.07:1. Recommendation:  change background to #fdfdfd.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 13,
+        "width": 71.4375,
+        "height": 15
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAEcAAAAPCAYAAAC2u9IeAAAAAXNSR0IArs4c6QAAA/hJREFUWIXtl0FrG0cUx38zu7JUtkZJTV3VgcVWkYSaisbBDm1JiUPzCXpoT82tB38Df4Teeyg00EMPhlwCOfRQiKEF1zWJqZ0I19gqrhC2MHJtVziLs9LuTA+7kmxHimXJvZT+YWHnzZv/vPnPm7ezYmZmRvM/2sIE8Jd/Rq0dsw5dQqSSyOQg8oIn1JU83v19xOe3MIf7ZXPwHiygsx8RyVrglKjPFuCTj4kkB/qONVi7WwMuIW5mgscG/eMi/sMiqq/Yi9QfnOYYgHgEjH6IXwHv4qjM5lssjrQToVoJsIvUvy7gj9tIu8f8cQ6BwRMmMZwhcrfXcM+AZROZti+MzuzYY72JSBfQzhFgAUd4+T/QpX2IJRAfpDCtQDRVLuC/SGBecfDni+h4CjlWR5cO4YVClXZOZU8EOTKEDGfX7gH+7yX0n0cwlkCmbQxLBrx7b2DkhprHu52thUO8pSKkcpjxU9xlF0YSyHdtjGjQ52/m0bEMMrqDv1SG5FUiqdZmdk4Jr4reAKIR8CrU7y2gnUFELoOwdtHfLeG5oW91F1bW8B6uow0LLAnOAXrbBfcIXdltPZtF9Ow6Khyrq0W8b39D+5cRE6OIWBU1vxWIWd2FwuHJuNrZmjhCP9pBO8e5V9Dm28g7WaRZQd1/it84epUd9PIK/g9bMGQhoiflOJY5LtqtBUE9/wt/bjVQ2h4Acxjzy9uIhpb2a3ibj9HbNWgUvo0aYvpWc8fgMsI5wF9LYEyMtnbBKVJfLIeNGv5iASbfx5wYRgCQgGzQ21e9a3BP3cDMxQPu3HX03hyq4GBkrcBt00RM38Bsc4Zapo0SaqMUvMdNGM8gx22M0KMhjPZqaF9BDHDrQChO+i1knHPib/QycLchzEUi5KbUynCAqgkxh6BUALmR5hpPo2VOpzA+He1wzjz8wirq13143QLbhOppn0hva/i3kcpgXDnWzmU4oUZMdtyYzgX5GHTpGWreQHxxO0w/B6+0QP+3x2hwbdg7hJHBs93PBQuRBu3WkVGrJ4auvtHarUF0ABFKqfa20NtdDDQlVB00oNxaGzHjyMlB+GkVr6rCuQ7w8mUUIOIWbJRRjT6njP/E6SZkwEJei8OjPF5VhXPX8AvreC9lfYfwu3GSY0n8J09R9yooC8i+h/iwfGbmSHsU38ijviqDnUB+lnvp7idTE+jnj1Hfz1F3gPgATF0DQIxcRU79gvpmjjrAZAp5cxi10t3iZPI6+s4z1OxcKIiEyXeQY92NF+f5t9KuB1HznMVToVwQ0c5nu+nngTTbJbOH8szmvagXaE+BeVYMJ3Gu6US0l+gkMtqlX0f6/oQBEG1FfzUu+r/yP4V/ABeBlGOoa6h7AAAAAElFTkSuQmCC"
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c352=\"\" wlcscapture=\"\" class=\"top-navigation--item\" href=\"/zzp\"> Zzp </a>",
+      "selector": "body>:nth-child(1)>:nth-child(7)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.66:1. Recommendation:  change text colour to #6d6d77.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 173.4375,
+        "y": 13,
+        "width": 28.4375,
+        "height": 15
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAAXNSR0IArs4c6QAAAexJREFUOI29lO1P2lAUhx9oeSsUW4MQ3gLqtsRk4e/j7zTZPjgU0ULnkFJUWmgp3QdQ6WVglpH9kps0555zn3vOuT2xdrsd8h8lg4d51WXk7XLJUftaRTscUOKoWCQZCDuhy8icMFcUcgeCvQEVTUeJmAPs7i9mMYV6Q0c+LHBbi7GB8QzZehVdBvAZ35vYCzE6T7WuwXhA39c41QLM/pCxCxn9hGpZJSmExP9Ao2c4kK9wrstvbilVJZ9fL1XGf5kyDSSSQDB1eH645/u1RZDVKRXS+CODq+4TYqeEDD3M659MZY1PTXXDHi27Y4yYiT6xHPWLKiuLjhb3+DawGAd5CtKODN3BHcN5guNGWejpZgF63FhQaAo+UjxyeymbIsEc143GvwMdk9tHn0ShRm0nzabXn5GpN6lkdvhEFBIINV0DXYyeja+U+FxJ7wh2MX6YuLnN3u7RfMGCBCnhYnGAye0d1iLFSUVl6fl4kbUgBByjj4XGWaS3G/KnPE781XfgYJgvhIpOUXimMvMHBk9LYM6w02G4dZJCvXWEZfmATefSft/Klmmdr2eQnCB4uOGyt1xlktY4bR4jCafJpEpctEofVkhvfTDcYklKXxo0w4AgJm2BXrX9H/6r9sBgx6T5W0lZBTXM7AW96jdr3rp7Nzqe+gAAAABJRU5ErkJggg=="
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c352=\"\" wlcscapture=\"\" class=\"top-navigation--item\" href=\"https://www.essent.nl/zakelijk\"> Zakelijk </a>",
+      "selector": "body>:nth-child(1)>:nth-child(7)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(3)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.66:1. Recommendation:  change text colour to #6d6d77.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 217.875,
+        "y": 13,
+        "width": 50.578125,
+        "height": 15
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAPCAYAAACm25zCAAAAAXNSR0IArs4c6QAAA3lJREFUSIndlltX4kgUhb+QBAk3QfASBQTBHnG55vf5O6ddY4/IxSGANwgQQiQXMg+iTQNq46yeh9lr1UNOnTq79jmnqiKcn5/7/A8g0W9xoY3edAimCnxRg+8GsbRrKkaE47KKsvYW+lT/6EC2TDEJVqfK9aOI+luetDikftnG2sxwmo2C1eGyYhI7LpFZIJIIb6Kq4aXw9vCBByNAePN9Eb8Cvj9l+tonPtPpx00jEYySSi1YrTsuWx7yVpbMssZfCkUt8rv68hWncBb/qXXSsslCa/Rw5ASl+fr5T3S1e/SxhSfGSB+opBThjbA23eYtY2WbTFpBwMfqdrjVLWxkwskdMqkQK1ePutQfYLuQIoqD3uwwiqpkk/JKpkm3TXscIrA4MdZa9Jwg20cqr8Xw+9Qv6tzbMvH0DnFxRKtSozNZFdpFr9ZpjWRSaQUBF716ReXOJbJ7QG43gntX55tmrc6BM8IwRjgAeJgjk5HprXR19RsqrTFyamuhIoMmtZ5L5KCEujFnFxLkzzYRhFkOUxu4FzcMew6qOp8pl36jRtOOUyrPEjHooJkb7J/mSEsAIQq5CX/W7tEzhyRXy/kQbr/JVdMhUSqRCc+3ljek3hxBROUwtdxxLyJ818GZehCAqecBMyGuSfvKwLRD5E6+V9MyJvgCDJp/Y8wJhimmBcm1rzkXo11jaDooueLrGZZeJvVGB4MIuXxixcFxMTottEcLTwyiKCL2YrUFmXDUx3q00EceiYT4fU4Mkz7YXriaBcRPXYgCwXAE3+ph6mO8RBwRns+I222hmQLJfI55/hd4jxr1R9gpn3B2ekSxsEtsUa0YJLGf52hLxNA0dPfZrERkcB2mQZngD0NiBdVPQGQjsUvpKIFodGjMiAJM7qm2xoibe+wEHWz7x+F64NouCBLB2ebtQQ/DWU0TzuTJKk80Kx3GAMkt4oExraqOPXsOvLFOUxvifkrIC5HKcTaE1WygjUHqt7tMAAYt/hos+8tbBcp7aWK9DvWvIwICiDGVnfiQ+5UMEsliDvOyQa2qcFJMkD/eo16749vX22cXQSa2n1t1968FKXnIkXnNde0GYZ1/Lc91QfpsSwB4eL6I+Nbzs4QntMs6RqxAORN613OtpIjSv83hGiI8l/HwAcMRUKLvi4A1hfyXsPttGncuynaGTOJj/38A9C16M4eyVIsAAAAASUVORK5CYII="
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"/privacyverklaring\" text=\"Privacy\" linktype=\"internal\" id=\"{FE020002-0B8D-4372-90AC-A5E8141E83AB}\"> Privacy </a>",
+      "selector": "#{FE020002-0B8D-4372-90AC-A5E8141E83AB}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3900.046875,
+        "width": 51.046875,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"/voorwaarden\" text=\"Voorwaarden\" linktype=\"internal\" id=\"{28B60084-C686-43C4-AD2E-8D4985FF9824}\"> Voorwaarden </a>",
+      "selector": "#{28B60084-C686-43C4-AD2E-8D4985FF9824}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 153.046875,
+        "y": 3900.046875,
+        "width": 93.828125,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"/kennisbank\" text=\"Kennisbank\" linktype=\"external\" url=\"/kennisbank\"> Kennisbank </a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(5)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(3)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 262.875,
+        "y": 3900.046875,
+        "width": 81.046875,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"/voorwaarden/algemene-inkoopvoorwaarden\" text=\"Informatie voor toeleveranciers en inkoopvoorwaarden\" linktype=\"internal\" id=\"{A125FB62-32E4-46BC-BF7D-A2E8A3B03C55}\"> Informatie voor toelevera...",
+      "selector": "#{A125FB62-32E4-46BC-BF7D-A2E8A3B03C55}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 359.921875,
+        "y": 3900.046875,
+        "width": 384.40625,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"https://www.eon.com/en/about-us/compliance/whistleblower.html\" linktype=\"external\" url=\"https://www.eon.com/en/about-us/compliance/whistleblower.html\"> SpeakUp E.ON </a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(5)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(5)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 760.328125,
+        "y": 3900.046875,
+        "width": 104.078125,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c165=\"\" class=\"nav-link p-0\" href=\"/voorwaarden/meldregeling\" text=\"Meldregeling\" linktype=\"internal\" id=\"{6467AAED-3FA5-4C6C-B74E-446FA765FF2B}\"> SpeakUp Essent </a>",
+      "selector": "#{6467AAED-3FA5-4C6C-B74E-446FA765FF2B}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3924.046875,
+        "width": 112.375,
+        "height": 24
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie\" text=\"Stroom &amp; Gas\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\">Stroom &amp; Gas</a>",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3476.046875,
+        "width": 96.96875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/zonnepanelen\" text=\"Zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\">Zonnepanelen</a>",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3508.046875,
+        "width": 100.078125,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/cv-ketels\" text=\"Cv-ketels\" linktype=\"internal\" id=\"{F4C2E413-F082-4073-B053-27479C7A5DE8}\">Cv-ketels</a>",
+      "selector": "#{F4C2E413-F082-4073-B053-27479C7A5DE8}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3540.046875,
+        "width": 65.546875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/klantenservice\" text=\"Klantenservice\" linktype=\"internal\" id=\"{45518F8B-757E-4406-B681-C2A142CF35EE}\">Klantenservice</a>",
+      "selector": "#{45518F8B-757E-4406-B681-C2A142CF35EE}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3572.046875,
+        "width": 103.46875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie/modelcontract\" text=\"Modelcontract\" linktype=\"internal\" id=\"{B8D20CEB-443F-4A11-AC4A-422D569DD3E7}\">Modelcontract</a>",
+      "selector": "#{B8D20CEB-443F-4A11-AC4A-422D569DD3E7}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3604.046875,
+        "width": 103.015625,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie/referentieproducten\" text=\"Referentieproducten\" linktype=\"internal\" id=\"{FDDBE2D6-F8D7-42D8-A78D-4207D1CC602E}\">Referentieproducten</a>",
+      "selector": "#{FDDBE2D6-F8D7-42D8-A78D-4207D1CC602E}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 3636.046875,
+        "width": 144.859375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/energie\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/energie\" text=\"Zakelijke energie\">Zakelijke energie</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3476.046875,
+        "width": 117.40625,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/energie/besparen\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/energie/besparen\" text=\"Energie besparen\">Energie besparen</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(2)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3508.046875,
+        "width": 120.875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/zaakvoordeel\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/zaakvoordeel\" text=\"Zaakvoordeel\">Zaakvoordeel</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(3)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3540.046875,
+        "width": 94.9375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/klantenservice\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/klantenservice\" text=\"Klantenservice\">Klantenservice</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(4)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3572.046875,
+        "width": 103.46875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/energie/modelcontract\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/energie/modelcontract\" text=\"Modelcontract\">Modelcontract</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(5)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3604.046875,
+        "width": 103.015625,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/zakelijk/energie/referentieproducten\" text=\"Referentieproducten\" linktype=\"external\" url=\"https://www.essent.nl/zakelijk/energie/referentieproducten\">Referentieproducten</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)>:nth-child(1)>:nth-child(6)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 371,
+        "y": 3636.046875,
+        "width": 144.859375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/over-essent\" text=\"Over Essent\" linktype=\"internal\" id=\"{A13D6256-A57E-4689-8B3C-26758B064407}\">Over Essent</a>",
+      "selector": "#{A13D6256-A57E-4689-8B3C-26758B064407}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3476.046875,
+        "width": 84.8125,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/over-essent/energietransitie\" text=\"Energietransitie\" linktype=\"internal\" id=\"{3FB30AAE-69B0-4D47-9E60-AE1A42B4C39F}\">Energietransitie</a>",
+      "selector": "#{3FB30AAE-69B0-4D47-9E60-AE1A42B4C39F}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3508.046875,
+        "width": 109.96875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energy-infrastructure-solutions\" id=\"{299F40A6-A4CF-4586-B00E-7AEA08E463D6}\" text=\"Energy Infrastructure Solutions\" url=\"/Essent/Home/energy infrastructure solutions\" linktype=\"internal\">Energy Infrastructure So...",
+      "selector": "#{299F40A6-A4CF-4586-B00E-7AEA08E463D6}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3540.046875,
+        "width": 217.65625,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energy-infrastructure-solutions/waterstof\" id=\"{368645D4-4E71-46D0-A1D9-244C04497923}\" linktype=\"internal\" text=\"Waterstof\" url=\"/Essent/Home/energy infrastructure solutions/waterstof\">Waterstof</a>",
+      "selector": "#{368645D4-4E71-46D0-A1D9-244C04497923}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3572.046875,
+        "width": 70.671875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.essent.nl/content/overessent/actueel/index.html\" text=\"Nieuws en media\" linktype=\"external\" url=\"https://www.essent.nl/content/overessent/actueel/index.html\">Nieuws en media</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(3)>:nth-child(2)>:nth-child(1)>:nth-child(5)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3604.046875,
+        "width": 120.671875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/klantenservice\" text=\"Contact\" linktype=\"internal\" id=\"{45518F8B-757E-4406-B681-C2A142CF35EE}\">Contact</a>",
+      "selector": "#{45518F8B-757E-4406-B681-C2A142CF35EE}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3636.046875,
+        "width": 55.484375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"https://www.werkenbijessent.nl/\" linktype=\"external\" url=\"https://www.werkenbijessent.nl/\" text=\"Bij ons werken\">Bij ons werken</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(10)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(3)>:nth-child(2)>:nth-child(1)>:nth-child(7)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 3:1. Recommendation:  change background to #75757f.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 3668.046875,
+        "width": 102.4375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"/energie/stroom/groene-stroom\">groene stroom</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 399.484375,
+        "y": 3037.046875,
+        "width": 102.28125,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"/energie\">stroom- en gasproducten</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(3)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 377.609375,
+        "y": 3101.046875,
+        "width": 176.3125,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"/zonnepanelen\">zonnepanelen</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 1005.5625,
+        "y": 3075.203125,
+        "width": 97.90625,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"/warmtepompen\">warmtepompen</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(2)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 864.625,
+        "y": 3099.203125,
+        "width": 110.984375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a href=\"/isolatie\">isolatie</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(3)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 1001.65625,
+        "y": 3099.203125,
+        "width": 49.875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie\" text=\"Bekijk het aanbod\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" class=\"d-block w-100 mb-2 btn btn-outline-prim...",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 863,
+        "y": 518.421875,
+        "width": 314,
+        "height": 48.375
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAToAAAAwCAYAAACBrraOAAAAAXNSR0IArs4c6QAAChNJREFUeJzt3d1rG1cax/HvSCPNyHp1rEZu4iRunG28G1+YNtBAfWGIYQMbSKGhFLoXgeZiYRf6J4T+AXu5l4EWWmhLAlnoRQIObCGGBNqSgrM4rbNrJ3Jqx3I0ep+Rzmj2QnJiO3ZkJc4qUZ8PGDya0ZkzkvXTc86MJe3cuXNeQdX5MVthOmeTcRRCCPEqSxo6I3GTt3pDRHUfekHV+eaexVA4yAf74rxm6J3uoxBCPJdlR3ErZ/PNPYsP9iXQf8xWGAoHGd8d6XTfhBBiR7xm6IzvjqAtl/jhYRnfdM7mSNzsdL+EEGLH/SFmcCvv4Ms4SoarQoiu9Jqhk3EUvk53RAghXjQJOiFE15OgE0J0PQk6IUTXk6ATQnQ9CTohRNeToBNCdD0JOiFE15OgE0J0PQk6IUTXk6ATQnQ9CTohRNeToBNCdD352JIOse6vMFNdf5sZDNAf7aE/2s7TUuT7mTLT6JwY3kX/JluozAoXMi4DvQnGUsEnlov3M1zI1+mPxTmxx9iRfb5ySjku33NY1A1OH4qzs5/O6DA7m+Oa8jG2L8mh8I42LrZBgq5DirbiSmXDjSUF2QrxgMGZ3yVIaNtpycN2Pebx2OpD8Bfzitsu3LbKjKaCWBuWqdeZdz3MurfN3rfe53bZSytcymqMdzww61iux7xWfwFtNx8vt87RF9C6aE2CrsMOx+N8OGCCqlEsFPnXr1V+qDl8/0AxkdqZp2fg9RCnlhSJZKNSiWxYLu7IXp6NVVLcdnXGOtgH0f1kju5loQeI9PYy2vyw50xtQ62kaljZPHPZCspt1ZiHcqrYdrWxbSDEcH+E/tUPkt64vBlXYdtV7JZfluShKmXSK2VstVlFWEeVyqSXCmQqG9ryKizWGr/adhXbrrFpE+vaybNY2KxPT1mvati2enRcVnarNta0VSgxt9UxeQp79ZhKW7TT3M/2ni/xoklF91KpYdcBNAbDxqPbMnctvijUyQFQgfsF3u2LM9G/+XyayjzksyWFpQc5+2YQfSHL33Peo+qxuLh++QlehenZPBeVxvFUL2NbTtu5fP/zA35qhhWLxcb2yUBjuZJncr7C1OoLPVMmHgjy5zd6SVazfDVX5Xajx3x5JwtovD+4m5ENc1jKyjK5WOXGo8BYP7xvtb5xvPBu2E+6pJhvbhPWg5x9s3f9FIHncv3nZaa2OqaCxeUF5/G+MmXCfp3TB3YxGGo2VLS4NO/wU3M/3Nc4sK1pCPGiSNB1mFUqcX2u1PjdUdxQGu/EIxztbbwy1GKOzwp1EmaIM/sjJLCZ/k+BiysFBhMGhzbmVDHLpSXFgqbz8cHGi7i9oWmN9H8LXFRwJB59/ALflEdRD/HXvSZ6ocCFFcXVBwUOJXfR75W5OV9hyvVxak+MkZgflcnxRabKpYUSZw9EeW+ozLU7FabQ+WgoygAa+mah6tSZxc+p/jDDYUgvFPjSdri8YDeCutX6Zl+nyh6n+mN8aNaZSRf5p6py7dcqJ/cEH+/LdSmGevhkfxA7U+DbnNs4pr5d9Lt5Ju863EDjeDLK0biP4sMil7KKz+ctPjncS4IyN9MOP6HxdjzMeDKAyhX4NiNfI9pJMnTtsCWluFJq/NxQAB5FpZpDOIfZnEsJH2N7YyQCPgj0MLI7QAqXmyvO+sacPNfuVrmFj/f372LgaRm1KQ8rbfFVxWNvqIf3BkItttcZPxgjGQ6S6O/hmA54LlYJeFhh0oVUOMRor4Hu1zFTUcYDsFCyWdR0TFNjNYZMM4hpBtA3qXz0VB9/G04y2hfCNEMcSgU4DNyu1ra1ftXhWKSxTTjMaF/jPX7G3vAY6kEmDkRJmAb9A5HmMSnmLLAfVJkCUuEexlIhTNMguSfOhAG4VaYfApbNdRcIBJkYCBMxgyRSYUalpOgoefg7bN3w0auS/q/F+VIFa97P2cE6jUKgztd3lp64b8JbO3+kOD/bqBqOJKKMRNofK93O5RtDSU3nw33RNv84VvfXOBNbrLiUgFKpxKe3Sk9s3XZ9oyosZmzSdh2lXNLtrt/Ckz1byyQRyIHyUC5k7MZ4ddBcW0brJIIaOB7pik1Rc1kC0P3Id+u9PCToXiZakIGYHyqKBadKkWCjwvF0PjoYZWBDdumBILBateh8NBhgbr7ClFVgOG60HXaHoxEmKPGPguLyvQJnDrYbdmv65vMBLkORCKdTG0pLzddGCHhY91e4kHWxNI1hw09S04jgNUOq1frn4cGa9xLdpwEeqr7+EhS7uahrMhH3spKh60vFw2pWDfj9mBg0zje4zJW05vCu+RPQ0f3r722GY4zv1klR5/KChbXdy+JW+fwk90V5X4eFSoXrmVrr+2zBjPoZAu7YVWxjTb8NHTPYRnyqAtezLgv+IGd+v5uTQ30c69dJbHf98/BKpB0AP/0RSIb8hIGZir2mIrXJOB6gcShiEOnxkwKoqcdzo14du93nQuwoqeg6bO3JiMWyYtYD0PhTXxQdjcFUkCPzVaaWsmCbHAp4ZAoO1xwY39/HaHR9e3oyxsl8lvOVKpMLFU63nGfbQAsxstdmZr7K1Qd5BuN9zzDXB0QjjIey3KlUufDLQ8biOnqtxs28ImOEODMUw8TXrFhdbt7NklYaIwcTT/xXgg5Qd7GKVcy6zfTi6tna7a1vi6oxOZ9j1IRMzuGKB3tDBoMm6EYPJ6w8F+0KF+Y8joU0rILNpIJwwGA4DngGo7/WuKKqXLqT5VgYFnNVrsolJh0lQddhS0pxZc2E1ZARYOz1BIPh5jAo0st7e7NEFqtM5SpMAaDxdrSH4Yh/kxYDDOwLcfyXMldzBYYTJoPtdiqSYCKeYS6n+PZunrNDsWf4Qwkw8Eacj+fzXCrV+LpZHfbpOid2R5pD1zAjuyrMrLj8UKgS1vwkS6z/Fyk9ytGEw4zl8uXdxiUof0yFeX+lxMXtrG9Tygww6Nh83izHhkyTk280h/BaiJGDHtwtMlmy+bw5Nj4SDnFiX6xxTFqYY/sVVtrmhl3ljq3xTjzKx6rI+ecfS4tnpHH6L965I6lO90Nsh6phe37MwPPNOBTTD55+Hd2Oq6NsF4zNz6riKWzle/pxeQq7CqaxReS2Wt8uVUNpgSemBx6ro+w6urnV/jyU46LvVH/EM/v01pJUdK8UPfCcZ/IqzM6VmS435pQeX5T8ovnQzaeEmKZjthoeazrm07rban279ECLF0eLY0KTkHuJyDPxW+LUmLNdLJ+P44kIx3rlLKH4bZCg+y0xYkwMxzrdCyH+7+TyEiFE15OgE0J0PQk6IUTXk6ATQnQ9CTohRNeToBNCdD0JOiFE15OgE0J0PQk6IUTXk6ATQnQ9CTohRNfzJQ2d5Zbf3SmEEK+eZUeRNHR8I3GTWzm70/0RQogd9++8w5GYge+t3hB3SlW+Wy5JZSeE6ArLjuK75RKzRYe3d/XwPwCgYS+DDHk4AAAAAElFTkSuQmCC"
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/klanten/verlengen\" text=\"Ik ben al klant\" linktype=\"internal\" id=\"{C0830999-6B3A-4401-AF84-28BAF9ED8C07}\" class=\"d-block w-100 mb-2 mt-0 btn btn...",
+      "selector": "#{C0830999-6B3A-4401-AF84-28BAF9ED8C07}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 863,
+        "y": 582.796875,
+        "width": 314,
+        "height": 26
+      },
+      "clipBase64": "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"
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/zonnepanelen\" text=\"Meer over zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\" class=\"mb-2 btn btn-outline-primary\"...",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 2020.984375,
+        "width": 209.984375,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/isolatie\" text=\"Meer over isolatie\" linktype=\"internal\" id=\"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\" class=\"mb-2 btn btn-outline-primary\">Meer ov...",
+      "selector": "#{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 2020.984375,
+        "width": 161.90625,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie\" text=\"Bekijk Stroom en Gas aanbod\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" class=\"d-block w-100 mb-2 btn btn-ou...",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 2714.515625,
+        "width": 348,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie/energieprijzen\" text=\"Lees meer over onze energietarie...\" linktype=\"internal\" id=\"{9B01A1C1-C3B0-4AC6-B68F-DCDBE9E6B6E0}\" class=\"d-bloc...",
+      "selector": "#{9B01A1C1-C3B0-4AC6-B68F-DCDBE9E6B6E0}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 466,
+        "y": 2714.515625,
+        "width": 348,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie/verhuizen\" text=\"Lees meer over verhuizen en ener...\" linktype=\"internal\" id=\"{7BB1B814-EFB0-4679-9B93-B2417548844A}\" class=\"d-block w-1...",
+      "selector": "#{7BB1B814-EFB0-4679-9B93-B2417548844A}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change text colour to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 846,
+        "y": 2714.515625,
+        "width": 348,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/elektrisch-laden\" text=\"Ontdek meer\" linktype=\"internal\" id=\"{4A137A64-697E-4410-BD31-70F36394C16B}\" class=\"me-2 mb-2 btn btn-primary\">Ontdek me...",
+      "selector": "#{4A137A64-697E-4410-BD31-70F36394C16B}",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.76:1. Recommendation:  change background to #0081a0.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 103,
+        "y": 472.171875,
+        "width": 128.1875,
+        "height": 48.375
+      },
+      "clipBase64": "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"
+    },
+    {
+      "context": "<a href=\"/energie/besparen/meer-over-vandaag\">de maatregelen&nbsp;voor de ener...</a>",
+      "selector": "body>:nth-child(1)>:nth-child(9)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(2)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)>:nth-child(1)",
+      "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+      "type": "error",
+      "typeCode": 1,
+      "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 2.45:1. Recommendation:  change text colour to #007895.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 713.296875,
+        "y": 160.796875,
+        "width": 268.03125,
+        "height": 16
+      },
+      "clipBase64": "iVBORw0KGgoAAAANSUhEUgAAAQwAAAAQCAYAAADj70HHAAAAAXNSR0IArs4c6QAAB1lJREFUeJztm89rG+kdh595Z0YaaSRPEidWoni9TUgCPuQQqMGBFHwwtDdDFlLYw8IubG8Leykk/0EOPRRy6KGwCznksJBCoIEGHAgkUIMCKQ3UsG4TqiSKHf+Ix56RZkYz8/YgJVJkSZbsJinbecBgZt55P5/3nfd9532/7ytFSilJSOjgypUrH9tCwv8g4mMbSPh/oM6Tss2NivexjbwnIlaWt3m0FnwQtdB2KVWq2PLDaycDRsIHwY8k5fgnOpkNfB45EXfsgPX3LhZRtuvcrdZ54rRpbwXY710btA+gkZDw0yaVYeaYypSWYvS9i6mcPJrly0BQyAG0tK33rp3MMBJ64PnRzotRRBg3/w9DvCDemeYtktAPu+fTniYI8fywle9uxBGe301bEr69tpt2H91+ZeypDZquYqpdpMKGjhd1zK7iqHXtTb5hR5peXlQVS1e6a0fNvDr/OvX36CuZYSR05fqzbXxFMDNmcjbfaI3uqsO1QOfrVMgNJ8ZF5YtTeYqdD1erzC8HPIxhQgFbETvTeDVKL33uRgoTAuwYTlsZZo+kejiKWF92uePEOIpCDoktNC5+kqOgAXg8LAekD+isbzW0ASxV4+JEjoI6mG73MuYwV7e5bceEQkGTEhsFSwE0nbkJnfILl1t6msvjmYZO6LNY8ZgPJKNCwYklo1mDuaLR6HR2ld+/Vvh8RPJgM6LctDdhpLk0nkHrU9/WqsM1RzTrPmSpTdtddbjm7Fz6nc6ZfHZUH9jXpXzMgh2/9XU6m2GumE4GjITu/OaUhb28zfUVFzM1wsl080a9zjwal45nsVSB0fmg9Hm8HFDWUnwznsUUQFDj3jP/3TQVn8VUmm9/lsFQgKrLrUqNUkpnylI6cyVcc7nhwOwxi0lTASIqzx1+eFHl60+zTR+SB1sRc8csZjMKBFXmywEPVuuNzjKobmcZ/Sq3bclkweJcvqn9zOE6Ot8ez2JQ73AbUa7UmI90vjhpYgkgrLHwb4/5VY1fHWl2uzjkgZfm4sk8hpB4rx1+WA94+DrN9EHRs77dPu/NPGpxuVXRjXfoKpw/rA/lq+SnmTuZwRQSb22bP256LNXSyZIkoRcKViHFtBKzsNHe2RXOF00KGQ0j1aX5bNUpxQpTh5qDBUBKo9CedDPgXiyYOdbstADZLFNpyWOnW7S/ztJ2zKiZbg4WACrFQxrFekilzd7UwTwTmWaalMGZFCyF4XC6nWWsxTxBUMi3tC0dCCVRtx5U8ygFCjNHmp0SQMswaSr8rRrQ2itSmRnPYAgABeNgmilVUnKHqO9+VKvccyRToyZFbThfvxjPNN+fgnFQYxKJ7SVLkoR+KBqjGtyN2tbsqspon1bj1iJeIRjN9Unjx7hIbjzd3HHPNLoFM0LsCMpujav/rHXcE5ztGf8QaG19bGDdzjLmNc6uBfxjtU7xiA5xQLkmOWHomN1kvZglJEvLm9zuvKdKekd1Ulh6Fbcet2YRu9R3T8IaCy/rkMsyfUDsz5eq8OZ1JgNGQh9kI+jWLZi3H4QCCL48lacwxGOTIyZzY/oH10XNcGE05Lt1lz/YYKNwNpNm7miPeIsCJoJfHh/hTGYYIQmy4VOFPgPLbkRUlgNKQuerdo979tUiGTASeiOjRlBQG7yZmIbAdGLsGhR7NEozLRgj4pULha6f6E50xnSfkh8Sou+50Q6v+wafxxsxU4UDnMsPkDyjcpqASjXmTGaIZYT0eRHARFbdNVbRJxPsZZebvuCzT813Z0B79dVGEsNI6E4cUqn43JWCqcNDfNUtnWlF8tfVKm4kIQ5ZeVnjfvvn0kpzQZXcW3GoeM2lgO/z4/MtHtndDndpTFgqlh8w/8pvzHpkjLvp8JdnVQY+Pzq0bjuSOys2N57Y3H62TemFw+JmZ7CzSdrgnKGwsOnwo9MseBRQqWwxvxa2JYwoLQeEkkY9LQcsSMH0oXS3XAejWuWeEzM5YnAoam2rhvEwvnqTzDASunL1iYOlqnxezDExTCtRDM6Nhbx6FXDtaQAo/Hwkw1ymxvdv+6TOmU8yRC89bj3fentCcdJIMZPfuUMCoB3IcUk63Nmo8butRhzDEoILh4ydOzU9GV4XgFCCEMzkdIoCkDHrtYhHay5/r2X59bHOZwWF41m+qNT48/I2f2pePZHSmDmsvpNuQnp8968qG4ApBLMFs7UjtQcqG3UWAWyXh21HP2dGDzB9cFBfvVGSH58ldOO3l6+g9elDAxHFoO42iZWEIWjDiEURoVD36W9w3ZXnm3xP2xmLJpXnm9wkzTfj/QICkjCUaFpHPbze5uo6zbMUkjACTd1LgeosPu04AzIQPXztQjLDSOjKvgcLGGCwAFAYIkTSzFf9LzTcwXWttMDcqrNoa5wwFEDibnvc9wSzxd3mN8oAg5KCtpfAchTheXVeDBlnGtzXTpIBIyFhF4wjeb4SLvc3qpQiiasojOkq54/nWmc+hkU0TpruZwPK3XC5uSUxUylmC/vYPRqC/wC1++Bt6WPI/wAAAABJRU5ErkJggg=="
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c170=\"\" class=\"ps-2 pe-6\" href=\"/energie\" text=\"Stroom &amp; Gas aanbod\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\"><wl-rich-text-wrapper _ngcontent...</a>",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 1214.203125,
+        "width": 348,
+        "height": 56
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c170=\"\" class=\"ps-2 pe-6\" href=\"/klanten/verlengen\" text=\"Contract verlengen\" linktype=\"internal\" id=\"{C0830999-6B3A-4401-AF84-28BAF9ED8C07}\"><wl-rich-text-wrapper _ngcontent...</a>",
+      "selector": "#{C0830999-6B3A-4401-AF84-28BAF9ED8C07}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{C0830999-6B3A-4401-AF84-28BAF9ED8C07}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 846,
+        "y": 1214.203125,
+        "width": 348,
+        "height": 56
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c116=\"\" href=\"/zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\"><img _ngcontent-innogy-app-c116=...</a>",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 1568.203125,
+        "width": 538,
+        "height": 302.625
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/zonnepanelen\" text=\"Meer over zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\" class=\"mb-2 btn btn-outline-primary\"...",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 2020.984375,
+        "width": 209.984375,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c116=\"\" href=\"/isolatie\" linktype=\"internal\" id=\"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\"><img _ngcontent-innogy-app-c116=...</a>",
+      "selector": "#{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 1568.203125,
+        "width": 538,
+        "height": 302.625
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/isolatie\" text=\"Meer over isolatie\" linktype=\"internal\" id=\"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\" class=\"mb-2 btn btn-outline-primary\">Meer ov...",
+      "selector": "#{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{9E60ED20-AA88-4B30-9881-B41A0BF2BB0B}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 656,
+        "y": 2020.984375,
+        "width": 161.90625,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie\" text=\"Bekijk Stroom en Gas aanbod\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" class=\"d-block w-100 mb-2 btn btn-ou...",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 86,
+        "y": 2714.515625,
+        "width": 348,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c151=\"\" wltrackimpression=\"button-impression\" trackimpressionmode=\"button\" href=\"/energie/energieprijzen\" text=\"Lees meer over onze energietarie...\" linktype=\"internal\" id=\"{9B01A1C1-C3B0-4AC6-B68F-DCDBE9E6B6E0}\" class=\"d-bloc...",
+      "selector": "#{9B01A1C1-C3B0-4AC6-B68F-DCDBE9E6B6E0}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{9B01A1C1-C3B0-4AC6-B68F-DCDBE9E6B6E0}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 466,
+        "y": 2714.515625,
+        "width": 348,
+        "height": 48.375
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie\" text=\"Stroom &amp; Gas\" linktype=\"internal\" id=\"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\">Stroom &amp; Gas</a>",
+      "selector": "#{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{C9477DB5-8FE0-4AAF-9242-C8BB6E14CB00}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 1,
+      "clip": {
+        "x": 86,
+        "y": 3476.046875,
+        "width": 96.96875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/zonnepanelen\" text=\"Zonnepanelen\" linktype=\"internal\" id=\"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\">Zonnepanelen</a>",
+      "selector": "#{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{8C15E48E-FD8C-4DE9-936F-37DB3D09688D}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 1,
+      "clip": {
+        "x": 86,
+        "y": 3508.046875,
+        "width": 100.078125,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/klantenservice\" text=\"Klantenservice\" linktype=\"internal\" id=\"{45518F8B-757E-4406-B681-C2A142CF35EE}\">Klantenservice</a>",
+      "selector": "#{45518F8B-757E-4406-B681-C2A142CF35EE}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{45518F8B-757E-4406-B681-C2A142CF35EE}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 1,
+      "clip": {
+        "x": 86,
+        "y": 3572.046875,
+        "width": 103.46875,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/klantenservice\" text=\"Contact\" linktype=\"internal\" id=\"{45518F8B-757E-4406-B681-C2A142CF35EE}\">Contact</a>",
+      "selector": "#{45518F8B-757E-4406-B681-C2A142CF35EE}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{45518F8B-757E-4406-B681-C2A142CF35EE}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 1,
+      "clip": {
+        "x": 656,
+        "y": 3636.046875,
+        "width": 55.484375,
+        "height": 16
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/cv-ketels\" text=\"Cv-ketels\" linktype=\"internal\" id=\"{F4C2E413-F082-4073-B053-27479C7A5DE8}\">Cv-ketels</a>",
+      "selector": "#{F4C2E413-F082-4073-B053-27479C7A5DE8}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{F4C2E413-F082-4073-B053-27479C7A5DE8}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie/modelcontract\" text=\"Modelcontract\" linktype=\"internal\" id=\"{B8D20CEB-443F-4A11-AC4A-422D569DD3E7}\">Modelcontract</a>",
+      "selector": "#{B8D20CEB-443F-4A11-AC4A-422D569DD3E7}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{B8D20CEB-443F-4A11-AC4A-422D569DD3E7}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energie/referentieproducten\" text=\"Referentieproducten\" linktype=\"internal\" id=\"{FDDBE2D6-F8D7-42D8-A78D-4207D1CC602E}\">Referentieproducten</a>",
+      "selector": "#{FDDBE2D6-F8D7-42D8-A78D-4207D1CC602E}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{FDDBE2D6-F8D7-42D8-A78D-4207D1CC602E}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/over-essent\" text=\"Over Essent\" linktype=\"internal\" id=\"{A13D6256-A57E-4689-8B3C-26758B064407}\">Over Essent</a>",
+      "selector": "#{A13D6256-A57E-4689-8B3C-26758B064407}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{A13D6256-A57E-4689-8B3C-26758B064407}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/over-essent/energietransitie\" text=\"Energietransitie\" linktype=\"internal\" id=\"{3FB30AAE-69B0-4D47-9E60-AE1A42B4C39F}\">Energietransitie</a>",
+      "selector": "#{3FB30AAE-69B0-4D47-9E60-AE1A42B4C39F}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{3FB30AAE-69B0-4D47-9E60-AE1A42B4C39F}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energy-infrastructure-solutions\" id=\"{299F40A6-A4CF-4586-B00E-7AEA08E463D6}\" text=\"Energy Infrastructure Solutions\" url=\"/Essent/Home/energy infrastructure solutions\" linktype=\"internal\">Energy Infrastructure So...",
+      "selector": "#{299F40A6-A4CF-4586-B00E-7AEA08E463D6}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{299F40A6-A4CF-4586-B00E-7AEA08E463D6}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    },
+    {
+      "context": "<a _ngcontent-innogy-app-c119=\"\" href=\"/energy-infrastructure-solutions/waterstof\" id=\"{368645D4-4E71-46D0-A1D9-244C04497923}\" linktype=\"internal\" text=\"Waterstof\" url=\"/Essent/Home/energy infrastructure solutions/waterstof\">Waterstof</a>",
+      "selector": "#{368645D4-4E71-46D0-A1D9-244C04497923}",
+      "code": "WCAG2AA.Principle4.Guideline4_1.4_1_1.F77",
+      "type": "error",
+      "typeCode": 1,
+      "message": "Duplicate id attribute value \"{368645D4-4E71-46D0-A1D9-244C04497923}\" found on the web page.",
+      "runner": "htmlcs",
+      "recurrence": 0,
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "clipBase64": ""
+    }
+  ],
+  "meta": {
+    "errorCount": 80,
+    "warningCount": 0,
+    "noticeCount": 0,
+    "accessScore": 100
+  },
+  "automateable": {
+    "missingAltIndexs": []
+  }
+}
